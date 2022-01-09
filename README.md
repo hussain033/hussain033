@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hussain033
-- 👀 I’m interested in Computer Science
-- 🌱 I’m pursuing my undergraduate in computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, Myself Mohamed Hussain
+- I’m currently a Student, pursuing my undergraduate in computer science and Engineering.
+- I am a life longer learner
+- I am passionate about programming and solving problems
 
 <!---
 hussain033/hussain033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
