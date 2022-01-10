@@ -1,9 +1,3 @@
-- Hi, Myself Mohamed Hussain
-- I’m currently a Student, pursuing my undergraduate in computer science and Engineering.
-- I am a life longer learner
-- I am passionate about programming and solving problems
+<h2 align="center">Hi, I'm Mohamed Hussain</h2>
 
-<!---
-hussain033/hussain033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter Follow](https://img.shields.io/twitter/follow/HMohamedHussai1?style=social)](https://twitter.com/HMohamedHussai1)
