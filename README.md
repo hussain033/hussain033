@@ -11,4 +11,4 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <h2>Connect<h2>
-  (https://img.shields.io/badge/hmohamedhussain2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/hmohamedhussain2004@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
