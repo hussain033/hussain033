@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhussainh2004/)
 <h2>About Me<h2>
  
-  I am a Computer science and engineering student interested in learning about computer science and programming. 
-  I am Passionate about solving problems and learning more about computer technology.
-  I am interested to work in the field of Artificial Intelligence and Data Science
+  I am a Computer science and engineering student interested in learning about computer science and programming.<br/>
+  I am Passionate about solving problems and learning more about computer technology.<br/>
+  I am interested to work in the field of Artificial Intelligence and Data Science.<br/>
   
 <h2>Tech Stacks<h2>
  
